@@ -1,2 +1,3 @@
 # BIA656
-Statistical Learning
+Statistical Learning & ML algorithms
+Machine Learning with scikit-learn
