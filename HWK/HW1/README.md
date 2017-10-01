@@ -2,7 +2,7 @@ STEPS
 
 Using the requests module, I scraped the text from the link provided.
 
-I then created a script that assigns each liine of text to a list within a list and loaded this main list into a pandas dataframe after checking that each inner list was 14 elements long.
+I then created a script that assigns each line of text to a list within a list and loaded this main list into a pandas dataframe after checking that each inner list was 14 elements long.
 Question 1 involved counting the length of the dataframe.
 
 To answer question 2, I returned a dataframe devoid of 'N/A' values by invoking the code dropna(axis=0) and counted the length of this new dataframe.
