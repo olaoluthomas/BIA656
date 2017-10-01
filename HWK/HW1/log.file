@@ -1,0 +1,84 @@
+[D 02:01:57.221 NotebookApp] Searching [u'C:\\Users\\Laolu\\Google Drive\\GitHub\\BIA656\\HWK\\HW1', 'C:\\Users\\Laolu\\.jupyter', 'C:\\Users\\Laolu\\Anaconda2\\envs\\py27\\etc\\jupyter', 'C:\\ProgramData\\jupyter'] for config files
+[D 02:01:57.223 NotebookApp] Looking for jupyter_config in C:\ProgramData\jupyter
+[D 02:01:57.223 NotebookApp] Looking for jupyter_config in C:\Users\Laolu\Anaconda2\envs\py27\etc\jupyter
+[D 02:01:57.223 NotebookApp] Looking for jupyter_config in C:\Users\Laolu\.jupyter
+[D 02:01:57.223 NotebookApp] Looking for jupyter_config in C:\Users\Laolu\Google Drive\GitHub\BIA656\HWK\HW1
+[D 02:01:57.224 NotebookApp] Looking for jupyter_notebook_config in C:\ProgramData\jupyter
+[D 02:01:57.224 NotebookApp] Looking for jupyter_notebook_config in C:\Users\Laolu\Anaconda2\envs\py27\etc\jupyter
+[D 02:01:57.224 NotebookApp] Looking for jupyter_notebook_config in C:\Users\Laolu\.jupyter
+[D 02:01:57.224 NotebookApp] Looking for jupyter_notebook_config in C:\Users\Laolu\Google Drive\GitHub\BIA656\HWK\HW1
+[I 02:01:58.322 NotebookApp] The port 8888 is already in use, trying another port.
+[D 02:01:58.326 NotebookApp] Terminals not available (error was No module named terminado)
+[I 02:01:58.496 NotebookApp] Serving notebooks from local directory: C:\Users\Laolu\Google Drive\GitHub\BIA656\HWK\HW1
+[I 02:01:58.496 NotebookApp] 0 active kernels 
+[I 02:01:58.496 NotebookApp] The Jupyter Notebook is running at: http://localhost:8889/?token=db3394ff6d52c2ff9fc31881fce4c0b5b3c0b725b4695342
+[I 02:01:58.496 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 02:01:58.497 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=db3394ff6d52c2ff9fc31881fce4c0b5b3c0b725b4695342
+[I 02:01:58.651 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[D 02:01:58.653 NotebookApp] Using contents: services/contents
+[D 02:01:58.724 NotebookApp] Path base/images/favicon.ico served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\base\images\favicon.ico
+[D 02:01:58.726 NotebookApp] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\jquery-ui\themes\smoothness\jquery-ui.min.css
+[D 02:01:58.727 NotebookApp] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\jquery-typeahead\dist\jquery.typeahead.min.css
+[D 02:01:58.729 NotebookApp] Path style/style.min.css served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\style\style.min.css
+[D 02:01:58.732 NotebookApp] Path components/es6-promise/promise.min.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\es6-promise\promise.min.js
+[D 02:01:58.734 NotebookApp] Path components/preact/index.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\preact\index.js
+[D 02:01:58.736 NotebookApp] Path components/proptypes/index.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\proptypes\index.js
+[D 02:01:58.737 NotebookApp] Path components/preact-compat/index.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\preact-compat\index.js
+[D 02:01:58.740 NotebookApp] Path components/requirejs/require.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\requirejs\require.js
+[D 02:01:58.742 NotebookApp] Path base/images/logo.png served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\base\images\logo.png
+[D 02:01:58.743 NotebookApp] Path tree/js/main.min.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\tree\js\main.min.js
+[D 02:01:58.749 NotebookApp] 200 GET /tree?token=ae9746edb5447c2b3c3ad7ecc073d2385557074974d6b09b (::1) 99.00ms
+[D 02:01:59.022 NotebookApp] Path components\jquery-ui\themes\smoothness\jquery-ui.min.css served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\jquery-ui\themes\smoothness\jquery-ui.min.css
+[D 02:01:59.025 NotebookApp] 200 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=9b2c8d3489227115310662a343fce11c (::1) 4.00ms
+[D 02:01:59.026 NotebookApp] Path style\style.min.css served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\style\style.min.css
+[D 02:01:59.032 NotebookApp] 200 GET /static/style/style.min.css?v=29c09309dd70e7fe93378815e5f022ae (::1) 7.00ms
+[D 02:01:59.035 NotebookApp] Path custom.css served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\custom\custom.css
+[D 02:01:59.036 NotebookApp] 200 GET /custom/custom.css (::1) 3.00ms
+[D 02:01:59.038 NotebookApp] Path components\jquery-typeahead\dist\jquery.typeahead.min.css served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\jquery-typeahead\dist\jquery.typeahead.min.css
+[D 02:01:59.040 NotebookApp] 200 GET /static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56 (::1) 4.00ms
+[D 02:01:59.042 NotebookApp] Path components\es6-promise\promise.min.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\es6-promise\promise.min.js
+[D 02:01:59.045 NotebookApp] 200 GET /static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe (::1) 3.00ms
+[D 02:01:59.046 NotebookApp] Path components\proptypes\index.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\proptypes\index.js
+[D 02:01:59.049 NotebookApp] 200 GET /static/components/proptypes/index.js?v=c40890eb04df9811fcc4d47e53a29604 (::1) 3.00ms
+[D 02:01:59.051 NotebookApp] Path components\preact\index.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\preact\index.js
+[D 02:01:59.059 NotebookApp] 200 GET /static/components/preact/index.js?v=5b98fce8b86ce059de89f9e728e16957 (::1) 10.00ms
+[D 02:01:59.063 NotebookApp] Path components\preact-compat\index.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\preact-compat\index.js
+[D 02:01:59.068 NotebookApp] 200 GET /static/components/preact-compat/index.js?v=d376eb109a00b9b2e8c0d30782eb6df7 (::1) 5.00ms
+[D 02:01:59.069 NotebookApp] Path components\requirejs\require.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\requirejs\require.js
+[D 02:01:59.073 NotebookApp] 200 GET /static/components/requirejs/require.js?v=6da8be361b9ee26c5e721e76c6d4afce (::1) 5.00ms
+[D 02:01:59.111 NotebookApp] Path tree\js\main.min.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\tree\js\main.min.js
+[D 02:01:59.145 NotebookApp] 200 GET /static/tree/js/main.min.js?v=9a7bc408ac5c5ba9cc978f3eea1bb741 (::1) 35.00ms
+[D 02:01:59.178 NotebookApp] Path base\images\logo.png served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\base\images\logo.png
+[D 02:01:59.180 NotebookApp] 200 GET /static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f (::1) 3.00ms
+[D 02:01:59.404 NotebookApp] Path services\contents.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\services\contents.js
+[D 02:01:59.405 NotebookApp] 200 GET /static/services/contents.js?v=20171001020157 (::1) 3.00ms
+[D 02:01:59.431 NotebookApp] Path base\images\favicon.ico served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\base\images\favicon.ico
+[D 02:01:59.434 NotebookApp] 200 GET /static/base/images/favicon.ico?v=97c6417ed01bdc0ae3ef32ae4894fd03 (::1) 2.00ms
+[D 02:01:59.459 NotebookApp] 200 GET /api/config/tree?_=1506837719331 (::1) 4.00ms
+[D 02:01:59.463 NotebookApp] 200 GET /api/config/common?_=1506837719332 (::1) 4.00ms
+[D 02:01:59.480 NotebookApp] Found kernel ir in C:\Users\Laolu\Anaconda2\envs\py27\share\jupyter\kernels
+[D 02:01:59.480 NotebookApp] Found kernel python2 in C:\Users\Laolu\Anaconda2\envs\py27\share\jupyter\kernels
+[D 02:01:59.482 NotebookApp] Found kernel ir in C:\Users\Laolu\Anaconda2\envs\py27\share\jupyter\kernels
+[D 02:01:59.482 NotebookApp] Found kernel python2 in C:\Users\Laolu\Anaconda2\envs\py27\share\jupyter\kernels
+[D 02:01:59.484 NotebookApp] Found kernel ir in C:\Users\Laolu\Anaconda2\envs\py27\share\jupyter\kernels
+[D 02:01:59.484 NotebookApp] Found kernel python2 in C:\Users\Laolu\Anaconda2\envs\py27\share\jupyter\kernels
+[D 02:01:59.494 NotebookApp] 200 GET /api/kernelspecs (::1) 18.00ms
+[D 02:01:59.499 NotebookApp] 200 GET /api/sessions?_=1506837719333 (::1) 2.00ms
+[D 02:01:59.529 NotebookApp] Path components\font-awesome\fonts\fontawesome-webfont.woff served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\components\font-awesome\fonts\fontawesome-webfont.woff
+[D 02:01:59.548 NotebookApp] 200 GET /static/components/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0 (::1) 49.00ms
+[D 02:01:59.630 NotebookApp] 200 GET /api/contents?type=directory&_=1506837719334 (::1) 15.00ms
+[D 02:01:59.632 NotebookApp] Path custom.js served from C:\Users\Laolu\Anaconda2\envs\py27\lib\site-packages\notebook\static\custom\custom.js
+[D 02:01:59.634 NotebookApp] 200 GET /custom/custom.js?v=20171001020157 (::1) 2.00ms
+[D 02:02:03.513 NotebookApp] Using contents: services/contents
+[D 02:02:03.528 NotebookApp] 200 GET /view/log.file (::1) 16.00ms
+[D 02:02:03.561 NotebookApp] 200 GET /files/log.file (::1) 3.00ms
+[D 02:02:03.671 NotebookApp] Using contents: services/contents
+[W 02:02:03.707 NotebookApp] 404 GET /favicon.ico (::1) 51.00ms referer=http://localhost:8889/view/log.file
+[D 02:03:55.750 NotebookApp] 200 GET /api/sessions?_=1506837719335 (::1) 2.00ms
+[D 02:03:55.773 NotebookApp] 200 GET /api/contents?type=directory&_=1506837719336 (::1) 13.00ms
+[I 02:07:03.503 NotebookApp] Interrupted...
+[I 02:07:03.505 NotebookApp] Shutting down kernels
